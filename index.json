@@ -1,0 +1,56 @@
+{
+    "data" : [
+     {   
+    "Questions" : "Quel est le rapport entre Java et JavaScript &amp;#160;?",
+    "Answers": [
+         " C'est le même langage, mais le nom  JavaScript  est utilisé pour le code s'exécutant dans une page Web.",
+         " Ce sont deux langages différents, malgré quelques points communs dans la syntaxe.        ",
+         " Java est une version améliorée de JavaScript.",
+         " Java est une île, ça n'a rien à voir !"
+    ],
+    "correct": "2"
+},
+{
+    "Questions" : "Laquelle de ces syntaxes est correcte&amp;#160;?    ",
+    "Answers": [
+         "  if (a != 2) {}",
+         "if a != 2 {}        ",
+         "  if (a <> 2) {}",
+         " if a <> 2 {}"
+        ],
+    "correct": "1"
+    },{
+    "Questions" : "Quel attribut des noeuds de l'arbre DOM correspond à l'attribut (X)HTML class&amp;#160;?    ",
+    "Answers": [
+         "class",
+         "CLASS",
+         "className",
+         "kiwi"
+        ],
+        "correct": "2"
+},{
+    "Questions" : "Dans un fichier JavaScript externe (.js), il faut&amp;#160;:    ",
+    "Answers": [
+         " entourer le code avec les balises <script> et </script>.         ",
+         " préciser l’encodage du fichier avec la règle @charset.         ",
+         " échapper les caractères spéciaux (X)HTML.         ",
+         " Aucune des réponses précédentes.         "
+        ]
+        ,
+    "correct": "4"
+},{
+    "Questions" : "Lequel de ces types d'événements n'existe pas&amp;#160;?    ",
+    "Answers": [
+         "blur",
+         "load",
+         "mouseclick",
+         "mouseout"
+        ]
+        ,
+    "correct": "1"
+}
+    ]
+}
+
+
+
